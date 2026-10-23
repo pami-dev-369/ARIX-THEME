@@ -12,7 +12,7 @@ cd /var/www/pterodactyl || { echo "Error: /var/www/pterodactyl folder not found!
 
 
 echo "-> Downloading and extracting theme files..."
-wget -q https://github.com/pami-dev-369/arix-craked/raw/refs/heads/main/pterodactyl.zip -O pterodactyl.zip
+wget -q https://github.com/pami-dev-369/ARIX-THEME/raw/refs/heads/main/pterodactyl.zip -O pterodactyl.zip
 
 unzip -o pterodactyl.zip
 
